@@ -1,39 +1,10 @@
-#+TITLE: PandocとOrg-modeの連携テスト
+#+TITLE: 写真のテスト
 #+AUTHOR:sn3y
-#+DATE: 2026-01-24
+#+DATE: 2026-02-23
 #+KEYWORDS: Emacs Pandoc HTML
 #+LANGUAGE: ja
 
-** はじめに
-ここに本文を書いていきます。
-
-** セクション１
-Org-modeの構文がそのままHTMLに変換されます。
-| key | value |
-| 001 | Hello |
-** 数式その１
-アインシュタインの式は $E=mc^2$ です。
-
-** 数式その２
-
-\begin{align}
-  x &= r \cos \theta \\
-  y &= r \sin \theta
-\end{align}
+** 私の写真
+[[./raspiPico_LEDsのコピー.jpeg]
 
 
-\[
-e^{i\pi} + 1 = 0
-\]
-
-** ソースコード
-#+begin_src shell
-pandoc input.org -o output.html --template=template.html --embed-resources --standalone --mathjax
-#+end_src
-
-#+begin_src python :tangle code.py
-def hello():
-    print("Hello, world!")
-#+end_src
-
-** 写真
