@@ -8,4 +8,4 @@
 #+CAPTION: Raspberry pi pico W
 #+NAME:   fig:Raspberry pi pico W
 #+ATTR_HTML: :width 30%
-[[file:raspiPico_LEDsのコピー.jpeg]]
+[[file:raspi_led.jpeg]]
