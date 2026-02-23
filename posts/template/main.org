@@ -5,6 +5,5 @@
 #+LANGUAGE: ja
 
 ** 私の写真
-[[./raspiPico_LEDsのコピー.jpeg]]
-
+[[raspiPico_LEDsのコピー.jpeg]]
 
