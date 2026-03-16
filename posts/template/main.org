@@ -7,5 +7,5 @@
 ** 私の写真
 #+CAPTION: Raspberry pi pico W
 #+NAME:   fig:Raspberry pi pico W
-#+ATTR_HTML: :width 30%
+#+ATTR_HTML: :class img-fluid
 [[file:raspi_led.jpeg]]
